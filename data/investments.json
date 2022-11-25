@@ -1,0 +1,812 @@
+[
+	{
+		"id": 1,
+		"amount": 504411.71,
+		"account_id": 7849,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 15:31:22.745259+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 2,
+		"amount": 194758.3,
+		"account_id": 7812,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 16:46:22.322788+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 3,
+		"amount": 62957.29,
+		"account_id": 7587,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 16:10:49.871675+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 4,
+		"amount": 163300.67,
+		"account_id": 5965,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 17:14:21.9591+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 5,
+		"amount": 200213.1,
+		"account_id": 3930,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 17:06:17.494719+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 6,
+		"amount": 396663.35,
+		"account_id": 6771,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 16:19:04.046254+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 7,
+		"amount": 238467.19,
+		"account_id": 6219,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 17:51:16.077495+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 8,
+		"amount": 113734.15,
+		"account_id": 421,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 16:49:35.215651+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 9,
+		"amount": 146991.09,
+		"account_id": 5956,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 17:51:56.884425+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 10,
+		"amount": 23382.1,
+		"account_id": 5140,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 19:49:38.58062+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 11,
+		"amount": 342511.48,
+		"account_id": 7091,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 20:31:21.723133+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 12,
+		"amount": 162000.06,
+		"account_id": 10913,
+		"opportunity_id": 132,
+		"created_at": "2022-03-07 20:07:07.029567+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 13,
+		"amount": 296788.5,
+		"account_id": 8117,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 00:50:58.008667+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 14,
+		"amount": 268237.53,
+		"account_id": 6806,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 07:56:24.355592+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 15,
+		"amount": 72388.03,
+		"account_id": 14940,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 09:03:18.270613+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 16,
+		"amount": 28430.26,
+		"account_id": 14929,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 09:44:13.311998+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 17,
+		"amount": 384849.95,
+		"account_id": 11185,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 09:01:13.726463+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 18,
+		"amount": 5289.2,
+		"account_id": 5676,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 10:58:47.712516+01",
+		"interest_rate": 7,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 19,
+		"amount": 85941.55,
+		"account_id": 11047,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 15:04:48.751176+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 20,
+		"amount": 232947.53,
+		"account_id": 11752,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 17:12:32.255385+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 21,
+		"amount": 199657.96,
+		"account_id": 6136,
+		"opportunity_id": 132,
+		"created_at": "2022-03-08 21:39:20.165841+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 22,
+		"amount": 57372.68,
+		"account_id": 14842,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 04:38:12.667758+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 23,
+		"amount": 196750.99,
+		"account_id": 2846,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 11:08:28.383036+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 24,
+		"amount": 123485.25,
+		"account_id": 10555,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 12:21:34.747264+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 25,
+		"amount": 17243.8,
+		"account_id": 7093,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 15:16:05.856038+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 26,
+		"amount": 642604.94,
+		"account_id": 12534,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 16:47:45.689602+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 27,
+		"amount": 495561.81,
+		"account_id": 15215,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 16:21:34.732987+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 28,
+		"amount": 43682.1,
+		"account_id": 2493,
+		"opportunity_id": 132,
+		"created_at": "2022-03-09 20:32:33.28842+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 29,
+		"amount": 354899.7,
+		"account_id": 14702,
+		"opportunity_id": 132,
+		"created_at": "2022-03-10 04:34:34.917995+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 30,
+		"amount": 993908.14,
+		"account_id": 15218,
+		"opportunity_id": 132,
+		"created_at": "2022-03-10 09:17:26.897926+01",
+		"interest_rate": 7.25,
+		"interest_period_start": "2022-04-08 00:00:00+02"
+	},
+	{
+		"id": 31,
+		"amount": 188665.57,
+		"account_id": 8252,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 14:09:06.775587+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 32,
+		"amount": 418598.28,
+		"account_id": 910,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 14:42:29.049148+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 33,
+		"amount": 2055220.74,
+		"account_id": 7534,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 14:43:12.542272+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 34,
+		"amount": 82971.03,
+		"account_id": 7220,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 15:54:24.780165+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 35,
+		"amount": 149392.31,
+		"account_id": 14758,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 14:44:33.112066+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 36,
+		"amount": 228993.7,
+		"account_id": 5577,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 14:39:14.710802+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 37,
+		"amount": 234423.27,
+		"account_id": 7041,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 16:19:55.024122+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 38,
+		"amount": 723484.59,
+		"account_id": 7762,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 16:29:55.776629+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 39,
+		"amount": 683070.56,
+		"account_id": 9804,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 16:43:56.927575+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 40,
+		"amount": 192238.48,
+		"account_id": 10965,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 15:24:35.921684+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 41,
+		"amount": 57181.52,
+		"account_id": 12345,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 15:36:04.768388+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 42,
+		"amount": 548536.86,
+		"account_id": 10351,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 16:16:36.387488+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 43,
+		"amount": 372024.05,
+		"account_id": 9461,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 17:05:16.3129+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 44,
+		"amount": 52283.97,
+		"account_id": 7282,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 17:47:21.497627+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 45,
+		"amount": 228712.78,
+		"account_id": 5554,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 18:30:33.953601+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 46,
+		"amount": 425903.33,
+		"account_id": 5880,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 19:32:19.905592+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 47,
+		"amount": 159602.41,
+		"account_id": 14325,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 19:15:15.357986+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 48,
+		"amount": 614333.51,
+		"account_id": 1127,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 22:40:03.146165+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 49,
+		"amount": 49674.18,
+		"account_id": 9461,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 22:29:00.225765+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 50,
+		"amount": 147931,
+		"account_id": 969,
+		"opportunity_id": 135,
+		"created_at": "2022-03-31 22:19:44.231302+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 51,
+		"amount": 316971.95,
+		"account_id": 15605,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 05:49:17.569986+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 52,
+		"amount": 314368.71,
+		"account_id": 11382,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 06:02:18.823214+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 53,
+		"amount": 396879.36,
+		"account_id": 7587,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 06:35:12.224158+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 54,
+		"amount": 126111.06,
+		"account_id": 13784,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 07:41:16.252926+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 55,
+		"amount": 160652.2,
+		"account_id": 14929,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 06:28:26.442359+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 56,
+		"amount": 308055.19,
+		"account_id": 14177,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 07:42:42.477792+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 57,
+		"amount": 292820.9,
+		"account_id": 15887,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 06:27:55.533296+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 58,
+		"amount": 324418.25,
+		"account_id": 14644,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 06:34:23.461221+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 59,
+		"amount": 180690.13,
+		"account_id": 14505,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 07:35:46.018842+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 60,
+		"amount": 507405.95,
+		"account_id": 15890,
+		"opportunity_id": 135,
+		"created_at": "2022-04-01 07:34:20.052566+02",
+		"interest_rate": 7.5,
+		"interest_period_start": "2022-04-04 00:00:00+02"
+	},
+	{
+		"id": 61,
+		"amount": 434028.11,
+		"account_id": 2300,
+		"opportunity_id": 170,
+		"created_at": "2022-08-30 16:01:20.775622+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 62,
+		"amount": 9857910.98,
+		"account_id": 16555,
+		"opportunity_id": 170,
+		"created_at": "2022-09-02 10:16:50.84716+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 63,
+		"amount": 62559.24,
+		"account_id": 1602,
+		"opportunity_id": 170,
+		"created_at": "2022-09-02 14:55:01.95717+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 64,
+		"amount": 591685.6,
+		"account_id": 17691,
+		"opportunity_id": 170,
+		"created_at": "2022-09-02 15:52:48.136282+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 65,
+		"amount": 694115.51,
+		"account_id": 9790,
+		"opportunity_id": 170,
+		"created_at": "2022-09-02 16:00:00.076554+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 66,
+		"amount": 379609.76,
+		"account_id": 9804,
+		"opportunity_id": 170,
+		"created_at": "2022-09-02 15:04:16.133756+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 67,
+		"amount": 1432920.56,
+		"account_id": 16550,
+		"opportunity_id": 170,
+		"created_at": "2022-09-05 16:29:20.977698+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 68,
+		"amount": 292164.25,
+		"account_id": 7882,
+		"opportunity_id": 170,
+		"created_at": "2022-09-05 18:49:01.574306+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 69,
+		"amount": 438806.56,
+		"account_id": 2437,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 10:36:28.465933+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 70,
+		"amount": 193736.1,
+		"account_id": 5890,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 10:26:33.89918+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 71,
+		"amount": 105006.14,
+		"account_id": 5877,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 10:55:59.597268+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 72,
+		"amount": 279032.72,
+		"account_id": 180,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 09:59:16.103634+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 73,
+		"amount": 195178.22,
+		"account_id": 16713,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 10:02:03.867959+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 74,
+		"amount": 198479.94,
+		"account_id": 1220,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 10:09:32.981513+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 75,
+		"amount": 223163.68,
+		"account_id": 16221,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 12:28:20.928639+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 76,
+		"amount": 253125.6,
+		"account_id": 9646,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 12:02:07.54084+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 77,
+		"amount": 5162162.71,
+		"account_id": 17379,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 12:33:34.194241+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 78,
+		"amount": 232281.48,
+		"account_id": 5668,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 12:59:33.633567+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 79,
+		"amount": 72704.92,
+		"account_id": 17633,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 11:47:25.802706+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 80,
+		"amount": 170704.37,
+		"account_id": 9414,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 13:26:57.377493+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 81,
+		"amount": 194364.29,
+		"account_id": 6593,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 14:12:05.393332+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 82,
+		"amount": 660416.74,
+		"account_id": 13784,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 14:03:42.360765+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 83,
+		"amount": 184508,
+		"account_id": 2328,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 14:04:24.071661+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 84,
+		"amount": 751079.14,
+		"account_id": 9348,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 15:37:21.812435+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 85,
+		"amount": 499158.58,
+		"account_id": 13750,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 15:39:37.256209+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 86,
+		"amount": 294833.21,
+		"account_id": 18812,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 16:02:41.91442+02",
+		"interest_rate": 11.5,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 87,
+		"amount": 332617.6,
+		"account_id": 15561,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 16:10:36.188876+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 88,
+		"amount": 217774.58,
+		"account_id": 13089,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 16:50:35.125167+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 89,
+		"amount": 448940.67,
+		"account_id": 10180,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 17:50:52.880415+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	},
+	{
+		"id": 90,
+		"amount": 490860.01,
+		"account_id": 18629,
+		"opportunity_id": 170,
+		"created_at": "2022-09-07 17:43:23.602681+02",
+		"interest_rate": 12,
+		"interest_period_start": "2022-09-19 00:00:00+02"
+	}
+]
