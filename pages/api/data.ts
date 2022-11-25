@@ -3,7 +3,7 @@ import type {NextApiRequest, NextApiResponse} from 'next'
 import opportunities from '../../data/opportunities.json'
 import investments from '../../data/investments.json'
 
-type Data = {
+export type DataPayload = {
   opportunities: Array<{
     id: number,
     title: string,
@@ -24,14 +24,31 @@ type Data = {
   }>
 }
 
+type ErrorPayload = {
+  error: {
+    message: string
+  }
+}
+
 export default function handler(
   req: NextApiRequest,
-  res: NextApiResponse<Data>
+  res: NextApiResponse<DataPayload | ErrorPayload>
 ) {
 
   const isSuccess = Math.random() > 0.33;
 
-  if (!isSuccess) return res.status(500).end()
+  try {
+    if (!isSuccess) throw new Error('An unexpected network error has occured.')
+    res.status(200).json({opportunities, investments})
+  } catch (error) {
 
-  res.status(200).json({opportunities, investments})
+    if (error instanceof Error) return res.status(500).json({error})
+
+    return res.status(500).json({
+      error: {
+        message: 'An unknown error'
+      }
+    })
+  }
+
 }
