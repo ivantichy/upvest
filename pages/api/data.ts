@@ -5,12 +5,12 @@ import investments from '../../data/investments.json'
 
 export type DataPayload = {
   opportunities: Array<{
-    id: number,
-    title: string,
-    subtitle: string,
-    card_photo: string,
-    fundraising_period_start: string,
-    fundraising_period_end: string,
+    id: number
+    title: string
+    subtitle: string
+    card_photo: string
+    fundraising_period_start: string
+    fundraising_period_end: string
     interest_rates: Record<string, number | undefined>
   }>
   investments: Array<{
@@ -30,18 +30,13 @@ type ErrorPayload = {
   }
 }
 
-export default function handler(
-  req: NextApiRequest,
-  res: NextApiResponse<DataPayload | ErrorPayload>
-) {
-
-  const isSuccess = Math.random() > 0.33;
+export default function handler(req: NextApiRequest, res: NextApiResponse<DataPayload | ErrorPayload>) {
+  const isSuccess = Math.random() > 0.33
 
   try {
     if (!isSuccess) throw new Error('An unexpected network error has occured.')
     res.status(200).json({opportunities, investments})
   } catch (error) {
-
     if (error instanceof Error) return res.status(500).json({error})
 
     return res.status(500).json({
@@ -50,5 +45,4 @@ export default function handler(
       }
     })
   }
-
 }
